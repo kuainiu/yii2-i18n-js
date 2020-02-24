@@ -2,7 +2,7 @@
 
 namespace kuainiu\yii2;
 
-use kuainiu\phpHelper\PhpHelper;
+use w3lifer\phpHelper\PhpHelper;
 use Yii;
 use yii\base\Object;
 use yii\helpers\Json;
