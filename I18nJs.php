@@ -4,14 +4,14 @@ namespace w3lifer\yii2;
 
 use w3lifer\phpHelper\PhpHelper;
 use Yii;
-use yii\base\BaseObject;
+use yii\base\Object;
 use yii\helpers\Json;
 use yii\web\View;
 
 /**
  * @see https://github.com/yiisoft/yii2/issues/274
  */
-class I18nJs extends BaseObject
+class I18nJs extends Object
 {
     /**
      * @var string The path to the JS file relative to the `@webroot` directory.
