@@ -1,8 +1,8 @@
 <?php
 
-namespace w3lifer\yii2;
+namespace kuainiu\yii2;
 
-use w3lifer\phpHelper\PhpHelper;
+use kuainiu\phpHelper\PhpHelper;
 use Yii;
 use yii\base\Object;
 use yii\helpers\Json;
