@@ -6,7 +6,7 @@
 ## Installation
 
 ``` shell
-composer require w3lifer/yii2-i18n-js
+composer require kuainiu/yii2-i18n-js
 ```
 
 1. Add this to your application configuration:
@@ -19,7 +19,7 @@ return [
     'components' => [
         // ...
         'i18nJs' => [
-            'class' => 'w3lifer\yii2\I18nJs',
+            'class' => 'kuainiu\yii2\I18nJs',
         ],
         // ...
     ],
